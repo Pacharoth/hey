@@ -1,0 +1,12 @@
+SID	Sname	Sgender	 Sage
+123	Pacharoth	M	12
+123	naruto	F	12
+123	jdakd	M	Null
+123	dklsd	m	12
+1	Naruto	M	12
+2	sabusa	M	12
+3	naraku	f	12
+0		Null	Null
+608964992	ÿU	Null	Null
+1634601267	raku	f	12
+	Null	Null
